@@ -17,6 +17,9 @@
     <img alt=PYTHON src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img alt=GIT src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img alt=MYSQL src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaicke&layout=compact&langs_count=7&theme=radical"/>
+
+    ![Snake animation](https://github.com/mrmaicke/mrmaicke/blob/output/github-contribution-grid-snake.svg)
+
+</div>
