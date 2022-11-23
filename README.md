@@ -5,7 +5,6 @@
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/mrmaicke_)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MrMaicke_)
 
-
 ![Maicke GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmaicke&show_icons=true&theme=radical)
 
 ## 🔧 Tecnologias:
@@ -18,7 +17,6 @@
     <img alt=PYTHON src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img alt=GIT src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img alt=MYSQL src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaicke&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
