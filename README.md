@@ -1,11 +1,11 @@
-# Olá pessoal! Me chamo Marcelo ✌😁
+# ✌ É um Prazer! Me chamo Marcelo 😁
 
 [![in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-santiago-in/)
 [![ins](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrmaicke/)
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/mrmaicke_)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
-## 🔧 Minhas Principais Tecnologias:
+## 🔧 Minhas Principais Tecnologias 🛠️
 
 <div style="display: inline_block">
     <img alt=JavaScript src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
