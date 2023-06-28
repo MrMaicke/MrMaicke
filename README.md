@@ -28,6 +28,4 @@
 
 ![Maicke GitHub Snake animation](https://github.com/mrmaicke/mrmaicke/blob/output/github-contribution-grid-snake.svg)
 
-<div style="position: relative; height: 100vh;">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" alt="Imagem" class="centered" width="35%">
-</div>
+![Maicke GitHub animation](https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif)
