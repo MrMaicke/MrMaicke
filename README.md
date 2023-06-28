@@ -26,7 +26,8 @@
     
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaicke&layout=compact&langs_count=7&theme=radical">
 
-![Maicke GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmaicke&show_icons=true&theme=radical) ![Maicke GitHub Snake animation](https://github.com/mrmaicke/mrmaicke/blob/output/github-contribution-grid-snake.svg)
+![Maicke GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmaicke&show_icons=true&theme=radical) 
+![Maicke GitHub Snake animation](https://github.com/mrmaicke/mrmaicke/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" alt="Imagem" class="centered" width="35%">
 <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></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>
