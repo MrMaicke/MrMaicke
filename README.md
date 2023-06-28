@@ -5,7 +5,7 @@
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/mrmaicke_)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
-## 🔧 Minhas Tecnologias 🛠️
+## 🔧 Minhas Tecnologias
 
 <div style="display: inline_block">
     <img alt=JavaScript src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -15,7 +15,7 @@
     <img alt=CSS src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-## 🔧 Tecnologias em Desenvolvimento 🛠️
+## Tecnologias em Desenvolvimento 🛠️
 
 <br>
     <div style="display: inline_block">
