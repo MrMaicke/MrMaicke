@@ -14,17 +14,19 @@
     <img alt=HTML5 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt=CSS src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
-
+<br>
 ## 🔧 Tecnologias em Desenvolvimento 🛠️
-<div style="display: inline_block">
-    <img alt=SQL src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img alt=PHP src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><br>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaicke&layout=compact&langs_count=7&theme=radical"/>
-</div>
+    <div style="display: inline_block">
+        <img alt=SQL src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+        <img alt=PHP src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    </div>
+<br/>
+    
+![Maicke GitHub Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaicke&layout=compact&langs_count=7&theme=radical)
 
 ![Maicke GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmaicke&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/mrmaicke/mrmaicke/blob/output/github-contribution-grid-snake.svg)
+![Maicke GitHub Snake animation](https://github.com/mrmaicke/mrmaicke/blob/output/github-contribution-grid-snake.svg)
 
 <div style="position: relative; height: 100vh;">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" alt="Imagem" class="centered" width="35%">
