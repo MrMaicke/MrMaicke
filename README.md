@@ -18,5 +18,6 @@
 
 ![Maicke GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmaicke&show_icons=true&theme=radical)
 
-
 ![Snake animation](https://github.com/mrmaicke/mrmaicke/blob/output/github-contribution-grid-snake.svg)
+
+ <img align="center" alt="jpg" width=200 src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
