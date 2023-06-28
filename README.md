@@ -15,7 +15,7 @@
     <img alt=CSS src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-##🔧 Tecnologias em Desenvolvimento 🛠️
+## 🔧 Tecnologias em Desenvolvimento 🛠️
 
 <br>
     <div style="display: inline_block">
