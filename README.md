@@ -5,7 +5,7 @@
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/mrmaicke_)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
-## 🔧 Minhas Principais Tecnologias 🛠️
+## 🔧 Minhas Tecnologias 🛠️
 
 <div style="display: inline_block">
     <img alt=JavaScript src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -16,8 +16,16 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaicke&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+## 🔧 Tecnologias em Desenvolvimento 🛠️
+<div style="display: inline_block">
+    <img alt=SQL src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt=PHP src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><br>
+</div>
+
 ![Maicke GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmaicke&show_icons=true&theme=radical)
 
 ![Snake animation](https://github.com/mrmaicke/mrmaicke/blob/output/github-contribution-grid-snake.svg)
 
- <img align="center" alt="jpg" width=200 src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
+<div style="display: flex; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" alt="Imagem" width="200">
+</div>
