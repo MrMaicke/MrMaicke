@@ -26,6 +26,6 @@
 
 ![Snake animation](https://github.com/mrmaicke/mrmaicke/blob/output/github-contribution-grid-snake.svg)
 
-<div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" alt="Imagem" style="display: block; margin: 0 auto;" width="200">
+<div style="display: flex; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" alt="Imagem" style="margin: auto;" width="200">
 </div>
