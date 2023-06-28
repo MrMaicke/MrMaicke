@@ -26,15 +26,6 @@
 
 ![Snake animation](https://github.com/mrmaicke/mrmaicke/blob/output/github-contribution-grid-snake.svg)
 
-<style>
-  .centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-</style>
-
 <div style="position: relative; height: 100vh;">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" alt="Imagem" class="centered" width="35%">
 </div>
