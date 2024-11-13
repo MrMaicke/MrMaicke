@@ -40,7 +40,7 @@
 ## Cobrinha 🐍
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BernardoSsilva/mrmaicke/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: white)" srcset="https://raw.githubusercontent.com/BernardoSsilva/mrmaicke/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BernardoSsilva/BernardoSsilva/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrmaicke/mrmaicke/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: white)" srcset="https://raw.githubusercontent.com/mrmaicke/mrmaicke/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrmaicke/mrmaicke/output/github-contribution-grid-snake.svg">
 </picture>
