@@ -19,10 +19,11 @@
 ![Maicke GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmaicke&show_icons=true&theme=radical) 
 
 ## Linguagens em Desenvolvimento 🛠️
+
 <br>
     <div style="display: inline_block">
-        <img alt=SQL src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-        <img alt=PHP src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+        <img alt=SQL src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=black">
+        <img alt=PHP src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black">
     </div>
 <br/>
 
