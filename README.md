@@ -33,4 +33,4 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrmaicke/mrmaicke/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" alt="Imagem" class="centered" width="45%">
+<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" alt="Imagem" class="centered" width="20%">
