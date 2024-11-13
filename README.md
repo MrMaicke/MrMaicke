@@ -1,35 +1,58 @@
 ### Connect with me!
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=120&section=header"/>
 
-# ✌ É um Prazer! 👨🏽‍💻
+<div align="center" padding="0.7rem"> 
 
-[![in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-santiago-in/)
-[![ins](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_m.sant_/)
-[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/mrmaicke_)
+<h3 align="center"> ✌ É um Prazer! 👨🏽‍💻</h3>
 
-## 🔧 Minhas Tecnologias
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt="Python logo"  />
-  <img width="8" />          
+  <a href="https://www.instagram.com/print_berenarando/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href = "mailto:bernardo.ssilva0808@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/bernardo-santos-96a70b268/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>   
 </div>
 
-<div style="text-align: center;" align="center">
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrmaicke&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=60&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=60&section=header"/>
+<div align="center">  
+  <img width="57%"  src="https://github-readme-stats.vercel.app/api?username=mrmaicke&theme=holi" alt="Bernardo Silva Stats" /> 
+  <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaicke&theme=holi&layout=donut&hide=css,html" />
+</div>
 
-  <a href="https://github.com/mrmaicke/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrmaicke&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+<br>
+<h3 align="center"> 🔧 Minhas Tecnologias Atuais</h3>
+<div style="display: inline_block" align="center" ><br>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,javascript,html,css,py,vscode,visualstudio" />
   </a>
 </div>
 
+![](./profile-3d-contrib/profile-night-view.svg)
+
+<div align="center" display="flex">
+  <img width="57%" src="http://github-profile-summary-cards-1s69m4xpu.vercel.app/api/cards/profile-details?username=mrmaicke&theme=holi"/>
+  <img  width="42%" src="https://streak-stats.demolab.com?user=mrmaicke&theme=holi-theme&border_radius=6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=daily" alt="GitHub Streak" />
+</div>
+<hr>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BernardoSsilva/mrmaicke/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: white)" srcset="https://raw.githubusercontent.com/BernardoSsilva/mrmaicke/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrmaicke/BernardoSsilva/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Cobrinha 🐍
+
+
+<br>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BernardoSsilva/mrmaicke/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: white)" srcset="https://raw.githubusercontent.com/BernardoSsilva/mrmaicke/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BernardoSsilva/BernardoSsilva/output/github-contribution-grid-snake.svg">
+</picture>
+<br>
+
+
+tet 
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrmaicke/mrmaicke/output/github-contribution-grid-snake-dark.svg">
