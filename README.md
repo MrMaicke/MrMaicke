@@ -26,7 +26,7 @@
     </div>
 <br/>
 
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" alt="Imagem" style="max-width: 20; display: inline-block;" data-target="animated-image.originalImage">
+
     
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrmaicke/mrmaicke/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrmaicke/mrmaicke/output/github-contribution-grid-snake-dark.svg">
