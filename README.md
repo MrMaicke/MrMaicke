@@ -16,6 +16,8 @@
 
 ## Tecnologias em Desenvolvimento 🛠️
 
+<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" alt="Imagem" class="centered" width="20%">
+
 <br>
     <div style="display: inline_block">
         <img alt=SQL src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -32,5 +34,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrmaicke/mrmaicke/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrmaicke/mrmaicke/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" alt="Imagem" class="centered" width="20%">
