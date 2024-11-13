@@ -4,18 +4,16 @@
 
 <div align="center" padding="0.7rem"> 
 
-<h3 align="center"> ✌ É um Prazer! 👨🏽‍💻</h3>
+<h3 align="center"> ✌ Prazer, me chamo Marcelo Santiago! Sou profissional de TI com experiência em suporte técnico e desenvolvimento de software. Conecte-se comigo! 👨🏽‍💻</h3>
 
-  <a href="https://www.instagram.com/print_berenarando/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href = "mailto:bernardo.ssilva0808@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/bernardo-santos-96a70b268/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>   
-</div>
+  <a href="https://www.instagram.com/_m.sant_/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href = "mailto:marcelosantiago184@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/marcelo-santiago-in/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=60&section=footer"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=60&section=header"/>
-<div align="center">  
-  <img width="57%"  src="https://github-readme-stats.vercel.app/api?username=mrmaicke&theme=holi" alt="Bernardo Silva Stats" /> 
+  <img width="57%"  src="https://github-readme-stats.vercel.app/api?username=mrmaicke&theme=holi" alt="Marcelo Santiago Stats" /> 
   <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaicke&theme=holi&layout=donut&hide=css,html" />
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=120&section=footer"/>
 </div>
 
 <br>
@@ -41,21 +39,8 @@
 
 ## Cobrinha 🐍
 
-
-<br>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BernardoSsilva/mrmaicke/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: white)" srcset="https://raw.githubusercontent.com/BernardoSsilva/mrmaicke/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BernardoSsilva/BernardoSsilva/output/github-contribution-grid-snake.svg">
-</picture>
-<br>
-
-
-tet 
-
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrmaicke/mrmaicke/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrmaicke/mrmaicke/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrmaicke/mrmaicke/output/github-contribution-grid-snake.svg">
 </picture>
