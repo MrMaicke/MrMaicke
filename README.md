@@ -31,6 +31,7 @@
 <div align="center" display="flex">
   <img width="57%" src="http://github-profile-summary-cards-1s69m4xpu.vercel.app/api/cards/profile-details?username=mrmaicke&theme=holi"/>
   <img  width="42%" src="https://streak-stats.demolab.com?user=mrmaicke&theme=holi-theme&border_radius=6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=daily" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mrmaicke&theme=holi-theme" alt="GitHub Streak" /></a>
 </div>
 <hr>
 
