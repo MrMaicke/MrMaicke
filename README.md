@@ -14,9 +14,10 @@
 
   <img width="57%"  src="https://github-readme-stats.vercel.app/api?username=mrmaicke&theme=holi" alt="Marcelo Santiago Stats" /> 
   <img width="40.3%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaicke&theme=holi&layout=donut&hide=css,html" />
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=120&section=footer"/>
 </div>
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=100&section=header"/>
 
 <br>
 <h3 align="center"> 🔧 Minhas Tecnologias Atuais</h3>
@@ -45,3 +46,5 @@
   <source media="(prefers-color-scheme: white)" srcset="https://raw.githubusercontent.com/mrmaicke/mrmaicke/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrmaicke/mrmaicke/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=100&section=footer"/>
