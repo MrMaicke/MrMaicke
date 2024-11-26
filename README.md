@@ -6,7 +6,7 @@
 
 <div align="center" padding="0.7rem"> 
 
-<h3 align="center"> ✌ Prazer, sou Marcelo Santiago, profissional de TI com experiência em suporte técnico e desenvolvimento de software. Conecte-se comigo! 👨🏽‍💻</h3>
+<h3 align="center">✌ Prazer, sou Marcelo Santiago, profissional de TI com experiência em suporte técnico e desenvolvimento de software. Conecte-se comigo! 👨🏽‍💻</h3>
 
   <a href="https://www.instagram.com/_m.sant_/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href = "mailto:marcelosantiago184@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -32,12 +32,8 @@
 <div align="center" display="flex">
   <img width="57%" src="http://github-profile-summary-cards-1s69m4xpu.vercel.app/api/cards/profile-details?username=mrmaicke&theme=holi"/>
   <img  width="41.5%" src="https://streak-stats.demolab.com?user=mrmaicke&theme=holi-theme&border_radius=6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=daily" alt="GitHub Streak" />
- 
-  
+
 </div>
-<hr>
-
-
 
 ## Cobrinha 🐍
 
