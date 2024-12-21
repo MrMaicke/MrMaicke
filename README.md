@@ -23,7 +23,7 @@
 <h3 align="center"> 🔧 Minhas Tecnologias Atuais</h3>
 <div style="display: inline_block" align="center" ><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,html,css,py,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,javascript,html,css,py,vscode" />
   </a>
 </div>
 
