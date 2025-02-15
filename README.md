@@ -21,10 +21,18 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=100&section=header"/>
 
 <br>
-<h3 align="center"> 🔧 Minhas Tecnologias Atuais</h3>
+<h3 align="center"> 🔧 Stacks Atuais</h3>
 <div style="display: inline_block" align="center" ><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,html,css,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,vscode,git" />
+  </a>
+</div>
+
+<br>
+<h3 align="center"> 🧑‍💻 Stacks em Estudos</h3>
+<div style="display: inline_block" align="center" ><br>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs" />
   </a>
 </div>
 
