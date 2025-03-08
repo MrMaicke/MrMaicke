@@ -8,7 +8,7 @@
 
 <h3 align="center">✌ Prazer, sou Marcelo Santiago, profissional de TI com experiência em suporte técnico e desenvolvimento de software. Conecte-se comigo! 👨🏽‍💻</h3>
 
-  <a href="https://www.instagram.com/_m.sant_/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.instagram.com/_m.sant_/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href = "mailto:marcelosantiago184@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/marcelo-santiago-in/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>   
 
