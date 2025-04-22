@@ -1,5 +1,6 @@
 <h3 align="center"> Connect with me!</h3>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=100&size=50&duration=3000&pause=1000&color=084d6e&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Marcelo+Santiago;I%27m+Front+End+Developer;I%27m+from+Brazil;welcome%3A)](https://git.io/typing-sv)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=120&section=header"/>
