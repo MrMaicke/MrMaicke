@@ -24,7 +24,7 @@
 <h3 align="center"> 🔧Stacks Atuais</h3>
 <div style="display: inline_block" align="center" ><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,javascript,html,css,vscode,pycharm,git" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,javascript,html,css,vscode,pycharm,git" />
   </a>
 </div>
 
