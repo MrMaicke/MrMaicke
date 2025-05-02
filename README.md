@@ -24,7 +24,7 @@
 <h3 align="center"> 🔧Stacks Atuais</h3>
 <div style="display: inline_block" align="center" ><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,git,vscode,pycharm,py" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,git,vscode,pycharm,py,jupyter" />
   </a>
 </div>
 
@@ -32,7 +32,7 @@
 <h3 align="center"> 🧑‍💻Stacks em Estudos</h3>
 <div style="display: inline_block" align="center" ><br>
     <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,anaconda" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java" />
   </a>
 </div>
 
