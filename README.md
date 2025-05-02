@@ -32,7 +32,7 @@
 <h3 align="center"> 🧑‍💻Stacks em Estudos</h3>
 <div style="display: inline_block" align="center" ><br>
     <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet" />
   </a>
 </div>
 
