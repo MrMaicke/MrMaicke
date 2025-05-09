@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/marcelo-santiago-in/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>   
 
   <img width="57%"  src="https://github-readme-stats.vercel.app/api?username=mrmaicke&theme=holi" alt="Marcelo Santiago Stats" /> 
-  <img width="40.3%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaicke&theme=holi&layout=donut&hide=css,html" />
+  <img width="40.3%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaicke&theme=holi&layout=donut" />
 </div>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=120&section=footer"/>
