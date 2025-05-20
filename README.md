@@ -22,7 +22,7 @@
     </a>
 </div>
 
-## 🧑‍💻Stacks em Estudos
+## 🧑‍💻 Próximos Estudos
 <div style="display: inline_block" align="center" ><br>
     <a href="https://skillicons.dev">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet" />
