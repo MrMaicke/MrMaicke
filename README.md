@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=100&size=50&duration=3000&pause=1000&color=084d6e&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Marcelo+Santiago;I%27m+Developer+from+Brazil;Connect+with+me;welcome%3A)](https://git.io/typing-sv)
 
-## ✌ Prazer, sou Marcelo Santiago, profissional de TI com experiência em suporte técnico e desenvolvimento de software. Conecte-se comigo! 👨🏽‍💻
+## 👋😁 Prazer! Sou Marcelo Santiago, atuo em TI e sou DEV. Vamos nos conectar? 🚀 👨🏽‍💻
 
 <div align="center" padding="0.7rem"> 
   <a href="https://www.instagram.com/_m.sant_/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
@@ -23,7 +23,7 @@
     </a>
 </div>
 
-## 🧑‍💻 Próximos Estudos
+## 🧑‍💻 Estudando
 <div style="display: inline_block" align="center" ><br>
     <a href="https://skillicons.dev">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet" />
