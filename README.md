@@ -6,7 +6,7 @@
 
 <div align="center" padding="0.7rem"> 
   <a href="https://www.instagram.com/_m.sant_/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a  href = "mailto:marcelosantiago184@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href = "mailto:marcelosantiago184@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/></a>
   <a href="https://www.linkedin.com/in/marcelo-santiago-in/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
 
 </div>
@@ -19,14 +19,16 @@
 ## 🔧Stacks Atuais
 <div style="display: inline_block" align="center" ><br>
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,git,vscode,pycharm,py,jupyter" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,py" />
+      <br>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,pycharm,jupyter" />
     </a>
 </div>
 
 ## 🧑‍💻 Estudando
 <div style="display: inline_block" align="center" ><br>
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=php,cs,dotnet" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=php,cs,dotnet,mysql" />
     </a>
 </div>
 
