@@ -19,16 +19,16 @@
 ## 🔧Stacks Atuais
 <div style="display: inline_block" align="center" ><br>
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,py" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,py,php" />
       <br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,pycharm,jupyter" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,pycharm,jupyter,laravel" />
     </a>
 </div>
 
 ## 🧑‍💻 Estudando
 <div style="display: inline_block" align="center" ><br>
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=php,cs,dotnet,mysql" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,net,sqlserver" />
     </a>
 </div>
 
