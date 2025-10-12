@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=100&size=50&duration=3000&pause=1000&color=084d6e&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Marcelo+Santiago;I%27m+Developer+from+Brazil;Connect+with+me;welcome%3A)](https://git.io/typing-sv)
 
-<div style="display: inline_block" align="center" >
+<divstyle="display: inline_block" align="center">
   <h1> Entre bugs e soluções, encontrei meu lugar. A tecnologia me ensinou que errar faz parte, e que cada erro traz uma nova ideia. Busco entender, criar e evoluir.<br>O resto é aprendizado em looping.</h1>
 </div>
 
 <div align="center" padding="0.7rem"> 
-  <a href="https://www.instagram.com/_m.sant_/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.instagram.com/_m.sant_/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram"/></a>
   <a href = "mailto:marcelosantiago184@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="https://www.linkedin.com/in/marcelo-santiago-in/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/marcelo-santiago-in/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin"/></a>
 
 </div>
 <br>
