@@ -14,23 +14,23 @@
 </div>
 <br>
 <div align="center" padding="0.7rem"> 
-  <img width="57%"  src="https://github-readme-stats.vercel.app/api?username=mrmaicke&theme=holi" alt="Marcelo Santiago Stats" /> 
-  <img width="40.3%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaicke&theme=holi&layout=donut" />
+  <img width="57%"  src="https://github-readme-stats.vercel.app/api?username=mrmaicke&theme=holi" alt="Marcelo Santiago Stats"/> 
+  <img width="40.3%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaicke&theme=holi&layout=donut"/>
 </div>
 
 ## 🔧Stacks Atuais
 <div style="display: inline_block" align="center" ><br>
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,py,php" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,py,php"/>
       <br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,pycharm,jupyter,laravel" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,pycharm,jupyter,laravel"/>
     </a>
 </div>
 
 ## 🧑‍💻 Estudando
-<div style="display: inline_block" align="center" ><br>
+<div style="display: inline_block" align="center"><br>
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,net,sqlserver" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,net,sqlserver"/>
     </a>
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="center" display="flex">
   <img width="57%" src="http://github-profile-summary-cards-1s69m4xpu.vercel.app/api/cards/profile-details?username=mrmaicke&theme=holi"/>
-  <img  width="41.5%" src="https://streak-stats.demolab.com?user=mrmaicke&theme=holi-theme&border_radius=6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=daily" alt="GitHub Streak" />
+  <img  width="41.5%" src="https://streak-stats.demolab.com?user=mrmaicke&theme=holi-theme&border_radius=6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=daily" alt="GitHub Streak"/>
 
 </div>
 
