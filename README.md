@@ -23,14 +23,14 @@
     <a href="https://skillicons.dev">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,py,php"/>
       <br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,pycharm,jupyter,laravel"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,pycharm,jupyter,laravel,sqlserver"/>
     </a>
 </div>
 
 ## 🧑‍💻 Estudando
 <div style="display: inline_block" align="center"><br>
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,net,sqlserver"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,net"/>
     </a>
 </div>
 
