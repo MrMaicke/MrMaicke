@@ -31,7 +31,7 @@
 ## 🧑‍💻 Estudando
 <div style="display: inline_block" align="center"><br>
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,net"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,net,bootstrap"/>
     </a>
 </div>
 
