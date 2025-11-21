@@ -24,7 +24,7 @@
     <a href="https://skillicons.dev">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,py,php"/>
       <br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,pycharm,jupyter,laravel,sqlserver"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,pycharm,jupyter,laravel,sqlserver"/>
     </a>
 </div>
 
